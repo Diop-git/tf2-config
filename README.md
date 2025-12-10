@@ -7,6 +7,9 @@
 
 # Change Log
 
+### 1.5.3
+- Added tf_spec_xray_disable "0"
+
 ### 1.5.2
 - Fixed scollwheel not changing weapons
 - Changed demoman voice bind
